@@ -1,0 +1,20 @@
+/ * Pequeno reset na página * /
+html {
+    altura : 100 % ;
+}
+
+corpo {
+    margem : 0 ;
+    cor de fundo : # 0D262D ;
+    cor : # fff ;
+    altura : 100 % ;
+}
+
+. conteudo {
+    display : flex;
+    direção flexível : coluna;
+    alinhar-itens : centro;
+    altura mínima : 100 % ;
+}
+
+/ * Estilo do Game * /
